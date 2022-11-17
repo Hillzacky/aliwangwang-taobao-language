@@ -26,7 +26,7 @@
 		<String id="Cancel">Cancel</String>
 		<String id="Add">Add</String>
 		<String id="Del">Delete</String>
-		<String id="SystemSetInfoFontDefault">宋体</String>
+		<String id="SystemSetInfoFontDefault">Feedback</String>
 		<String id="SystemMessage">System Message</String>
 		<String id="ack_timeout_tip_text">
 			<![CDATA[Because of the network, the other party may not have received your message."<i>%s</i>".<p class="Sys_resent"><a href="#ResendMsg?Msg=%s" class='J_CustomLink'>Resend</a></p>]]>
